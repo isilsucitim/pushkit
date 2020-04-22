@@ -1,6 +1,6 @@
 PushKit SDK
 
-This SDK includes Huawei PushKit and Google FCM enhancements. Recently, with the release of Huawei App Gallery, many applications are performing location integration.
+This SDK includes Huawei PushKit and Google FCM enhancements. Recently, with the release of Huawei App Gallery, many applications are performing pushkit integration.
 Our main goal now aims to solve your pushkit related problems. You will have completed both integrations using only our libraries.
 
 Installing
