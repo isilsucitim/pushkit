@@ -17,7 +17,7 @@ Add it in your root build.gradle at the end of repositories:
     
 Add the dependency to your project build.gradle file:
 
-        implementation ' com.github.isilsucitim:pushkit:1.0'
+        implementation 'com.github.isilsucitim:pushkit:1.0'
         
 Usage
 
