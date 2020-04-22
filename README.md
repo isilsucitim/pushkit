@@ -1,3 +1,5 @@
+The project doesn't work in android phones with lower than 8.1. version.
+
 PushKit SDK
 
 This SDK includes Huawei PushKit and Google FCM enhancements. Recently, with the release of Huawei App Gallery, many applications are performing pushkit integration.
